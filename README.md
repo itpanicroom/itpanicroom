@@ -17,13 +17,13 @@ Identity & Security: Passwordless, Conditional Access, Entra ID Governance
 
 Modern Work (MS path): Exchange, Teams, SharePoint, Loop, Copilot
 
-Azure: Infrastructure core services to design and mantaing a whole cloud side infra and plan for DRBC.
+Azure: Infrastructure core services to design and mantain a whole cloud side infra and plan for DRBC.
 
 Adoption Strategy: Driving real usage, not just deployments or dashboards
 
 
 🔧 Projects
-This repo holds live fire-tested kits, tactical configs, and real-life patterns I use across production tenants — no lab fluff.
+This repo holds live fire-tested kits, tactical configs, and real-life patterns I use across production tenants, no lab fluff.
 Everything here exists to prevent or undo damage. That’s it.
 
 
@@ -32,4 +32,7 @@ Everything here exists to prevent or undo damage. That’s it.
 LINKEDIN: https://www.linkedin.com/in/patrick-savio/
 
 "Modern Work isn’t magic. It’s a mess zone.
-You either architect it right — or debug it forever."
+You either architect it right or debug it forever."
+
+BLOG:
+https://itpanicroom.com
