@@ -17,7 +17,7 @@ Identity & Security: Passwordless, Conditional Access, Entra ID Governance
 
 Modern Work (MS path): Exchange, Teams, SharePoint, Loop, Copilot
 
-Azure: Infrastructure core services to design and mantain a whole cloud side infra and plan for DRBC.
+Azure: Infrastructure core services to design and mantain a whole cloud side infra and plan for BCDR.
 
 Adoption Strategy: Driving real usage, not just deployments or dashboards
 
